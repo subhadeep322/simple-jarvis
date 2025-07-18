@@ -4,8 +4,6 @@ import webbrowser
 import pywhatkit
 import os
 import sys
-import random
-import re
 import numpy as np
 import cv2
 import google.generativeai as genai
