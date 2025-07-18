@@ -1,0 +1,15 @@
+ pyttsx3
+ datetime
+ webbrowser
+ pywhatkit
+ os
+ sys
+ random
+ re
+ numpy 
+ cv2
+ google.generativeai
+ dotenv
+ moviepy.editor 
+
+)
